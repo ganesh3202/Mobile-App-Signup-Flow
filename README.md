@@ -19,8 +19,8 @@ A futuristic authentication interface built using pure HTML, CSS, and JavaScript
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## Screens
