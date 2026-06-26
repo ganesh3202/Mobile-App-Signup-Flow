@@ -1,2 +1,37 @@
-# Mobile-App-Signup-Flow
-I created this project to practice modern frontend development and UI design. It includes a complete authentication flow with login, signup, OTP verification, profile setup, and smooth animations, all built using HTML, CSS, and JavaScript.
+# NexAuth Authentication UI
+
+A futuristic authentication interface built using pure HTML, CSS, and JavaScript.
+
+## Features
+
+- Modern Cyberpunk UI
+- Login Page
+- Signup Page
+- OTP Verification
+- Profile Setup
+- Success Screen
+- Animated Background
+- Responsive Design
+- Glassmorphism Effects
+- Password Strength Checker
+- Avatar Upload
+- Email Validation
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Screens
+
+- Welcome
+- Register
+- Login
+- OTP Verification
+- Profile Setup
+- Success
+
+## How to Run
+
+Download the project and open:
